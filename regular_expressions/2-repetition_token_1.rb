@@ -13,4 +13,4 @@ input = ARGV[0]
 matches = input.scan(/hb?tn/)
 
 # Printing the matches combined
-puts matches.join
+puts matches.joinn
